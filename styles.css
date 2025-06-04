@@ -8,3 +8,12 @@ h1{
 p{
     color: black;
 }
+
+table{
+    margin-left: 30%;
+
+}
+
+th{
+    padding-left: 20px;
+}
