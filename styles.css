@@ -1,12 +1,7 @@
-h1{
-    color: black;
-    
-}
-p{
-    color: black;
+th{
+    font-weight: bold;
 }
 
-table{
-    margin-top: 2%;
-    margin-bottom: 2%;
+div{
+    font-weight: bold;
 }
